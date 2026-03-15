@@ -43,15 +43,6 @@ advanced-portfolio
     ├── light-theme.png
     └── dark-theme.png
 
-
-## Screenshots
-
-### Light Theme
-![Light Theme](screenshots/light theme.png)
-
-### Dark Theme
-![Dark Theme](screenshots/dark theme.png)
-
 ## How to Run the Project
 1. Download or clone the repository
 2. Open the project folder
